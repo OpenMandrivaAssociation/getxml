@@ -9,7 +9,6 @@ Release:        %release
 Source:         %{name}-%{version}.tar.bz2
 URL:            http://toutdoux.sourceforge.net
 Group:          System/Libraries
-BuildRoot:      %_tmppath/%name-buildroot
 Buildrequires:	libxml-devel
 License:	GPL
 
