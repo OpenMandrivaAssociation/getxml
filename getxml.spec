@@ -1,6 +1,6 @@
 %define name getxml
 %define version 1.0.4
-%define release %mkrel 6
+%define release %mkrel 7
 
 Name:           %name
 Summary:        XML file internationalization
