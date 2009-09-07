@@ -20,7 +20,7 @@ XML File internationalization
 
 %setup -q
 
-%configure
+%configure2_5x
 
 %build
 
