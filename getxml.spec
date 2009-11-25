@@ -11,7 +11,7 @@ URL:            http://toutdoux.sourceforge.net
 Group:          System/Libraries
 BuildRoot:      %_tmppath/%name-buildroot
 Buildrequires:	libxml-devel libglib-devel
-License:	GPL
+License:	GPLv2+
 
 %description
 XML File internationalization
@@ -27,12 +27,12 @@ XML File internationalization
 %make
 
 %install
-rm -rf $RPM_BUILD_ROOT
+rm -rf %{buildroot}
 
 %makeinstall
 
 %clean
-rm -rf $RPM_BUILD_ROOT
+rm -rf %{buildroot}
 
 %files 
 %defattr(-,root,root,0755)
