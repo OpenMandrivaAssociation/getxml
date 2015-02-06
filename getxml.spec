@@ -1,7 +1,7 @@
 Summary:	XML file internationalization
 Name:		getxml
 Version:	1.0.4
-Release:	11
+Release:	12
 License:	GPLv2+
 Group:		System/Libraries
 Url:		http://toutdoux.sourceforge.net
