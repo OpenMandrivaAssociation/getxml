@@ -4,7 +4,7 @@ Version:	1.0.4
 Release:	12
 License:	GPLv2+
 Group:		System/Libraries
-Url:		http://toutdoux.sourceforge.net
+Url:		https://toutdoux.sourceforge.net
 Source0:	%{name}-%{version}.tar.bz2
 # from GNU git
 Source1:	config.sub.20091120
